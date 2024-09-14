@@ -1,0 +1,2 @@
+Topics Covered: 
+Pandas Basics, Series, DataFrame, iloc and Loc, set and reset, drop
