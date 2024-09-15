@@ -1,0 +1,148 @@
+car_ID,symboling,carname,doornumber,carbody,enginelocation,wheelbase,carlength,carwidth,carheight,curbweight,cylindernumber,enginesize,boreratio,stroke,compressionratio,horsepower,peakrpm,citympg,highwaympg,price
+1,3,alfa-romero giulia,two,convertible,front,88.6,168.8,64.1,48.8,2548,four,130,3.47,2.68,9,111,5000,21,27,13495
+2,3,alfa-romero stelvio,two,convertible,front,88.6,168.8,64.1,48.8,2548,four,130,3.47,2.68,9,111,5000,21,27,16500
+3,1,alfa-romero Quadrifoglio,two,hatchback,front,94.5,171.2,65.5,52.4,2823,six,152,2.68,3.47,9,154,5000,19,26,16500
+4,2,audi 100 ls,four,sedan,front,99.8,176.6,66.2,54.3,2337,four,109,3.19,3.4,10,102,5500,24,30,13950
+5,2,audi 100ls,four,sedan,front,99.4,176.6,66.4,54.3,2824,five,136,3.19,3.4,8,115,5500,18,22,17450
+6,2,audi fox,two,sedan,front,99.8,177.3,66.3,53.1,2507,five,136,3.19,3.4,8.5,110,5500,19,25,15250
+8,1,audi 5000,four,wagon,front,105.8,192.7,71.4,55.7,2954,five,136,3.19,3.4,8.5,110,5500,19,25,18920
+9,1,audi 4000,four,sedan,front,105.8,192.7,71.4,55.9,3086,five,131,3.13,3.4,8.3,140,5500,17,20,23875
+10,0,audi 5000s (diesel),two,hatchback,front,99.5,178.2,67.9,52,3053,five,131,3.13,3.4,7,160,5500,16,22,17859.167
+11,2,bmw 320i,two,sedan,front,101.2,176.8,64.8,54.3,2395,four,108,3.5,2.8,8.8,101,5800,23,29,16430
+13,0,bmw x1,two,sedan,front,101.2,176.8,64.8,54.3,2710,six,164,3.31,3.19,9,121,4250,21,28,20970
+14,0,bmw x3,four,sedan,front,101.2,176.8,64.8,54.3,2765,six,164,3.31,3.19,9,121,4250,21,28,21105
+15,1,bmw z4,four,sedan,front,103.5,189,66.9,55.7,3055,six,164,3.31,3.19,9,121,4250,20,25,24565
+16,0,bmw x4,four,sedan,front,103.5,189,66.9,55.7,3230,six,209,3.62,3.39,8,182,5400,16,22,30760
+17,0,bmw x5,two,sedan,front,103.5,193.8,67.9,53.7,3380,six,209,3.62,3.39,8,182,5400,16,22,41315
+19,2,chevrolet impala,two,hatchback,front,88.4,141.1,60.3,53.2,1488,three,61,2.91,3.03,9.5,48,5100,47,53,5151
+20,1,chevrolet monte carlo,two,hatchback,front,94.5,155.9,63.6,52,1874,four,90,3.03,3.11,9.6,70,5400,38,43,6295
+21,0,chevrolet vega 2300,four,sedan,front,94.5,158.8,63.6,52,1909,four,90,3.03,3.11,9.6,70,5400,38,43,6575
+22,1,dodge rampage,two,hatchback,front,93.7,157.3,63.8,50.8,1876,four,90,2.97,3.23,9.41,68,5500,37,41,5572
+23,1,dodge challenger se,two,hatchback,front,93.7,157.3,63.8,50.8,1876,four,90,2.97,3.23,9.4,68,5500,31,38,6377
+24,1,dodge d200,two,hatchback,front,93.7,157.3,63.8,50.8,2128,four,98,3.03,3.39,7.6,102,5500,24,30,7957
+25,1,dodge monaco (sw),four,hatchback,front,93.7,157.3,63.8,50.6,1967,four,90,2.97,3.23,9.4,68,5500,31,38,6229
+26,1,dodge colt hardtop,four,sedan,front,93.7,157.3,63.8,50.6,1989,four,90,2.97,3.23,9.4,68,5500,31,38,6692
+27,1,dodge colt (sw),four,sedan,front,93.7,157.3,63.8,50.6,1989,four,90,2.97,3.23,9.4,68,5500,31,38,7609
+28,1,dodge coronet custom,two,sedan,front,93.7,157.3,63.8,50.6,2191,four,98,3.03,3.39,7.6,102,5500,24,30,8558
+29,-1,dodge dart custom,four,wagon,front,103.3,174.6,64.6,59.8,2535,four,122,3.34,3.46,8.5,88,5000,24,30,8921
+30,3,dodge coronet custom (sw),two,hatchback,front,95.9,173.2,66.3,50.2,2811,four,156,3.6,3.9,7,145,5000,19,24,12964
+31,2,honda civic,two,hatchback,front,86.6,144.6,63.9,50.8,1713,four,92,2.91,3.41,9.6,58,4800,49,54,6479
+32,2,honda civic cvcc,two,hatchback,front,86.6,144.6,63.9,50.8,1819,four,92,2.91,3.41,9.2,76,6000,31,38,6855
+34,1,honda accord cvcc,two,hatchback,front,93.7,150,64,52.6,1940,four,92,2.91,3.41,9.2,76,6000,30,34,6529
+36,0,honda accord lx,four,sedan,front,96.5,163.4,64,54.5,2010,four,92,2.91,3.41,9.2,76,6000,30,34,7295
+37,0,honda civic 1500 gl,four,wagon,front,96.5,157.1,63.9,58.3,2024,four,92,2.92,3.41,9.2,76,6000,30,34,7295
+38,0,honda accord,two,hatchback,front,96.5,167.5,65.2,53.3,2236,four,110,3.15,3.58,9,86,5800,27,33,7895
+39,0,honda civic 1300,two,hatchback,front,96.5,167.5,65.2,53.3,2289,four,110,3.15,3.58,9,86,5800,27,33,9095
+40,0,honda prelude,four,sedan,front,96.5,175.4,65.2,54.1,2304,four,110,3.15,3.58,9,86,5800,27,33,8845
+43,1,honda civic (auto),two,sedan,front,96.5,169.1,66,51,2293,four,110,3.15,3.58,9.1,100,5500,25,31,10345
+44,0,isuzu MU-X,four,sedan,front,94.3,170.7,61.8,53.5,2337,four,111,3.31,3.23,8.5,78,4800,24,29,6785
+45,1,isuzu D-Max ,two,sedan,front,94.5,155.9,63.6,52,1874,four,90,3.03,3.11,9.6,70,5400,38,43,8916.5
+46,0,isuzu D-Max V-Cross,four,sedan,front,94.5,155.9,63.6,52,1909,four,90,3.03,3.11,9.6,70,5400,38,43,8916.5
+48,0,jaguar xj,four,sedan,front,113,199.6,69.6,52.8,4066,six,258,3.63,4.17,8.1,176,4750,15,19,32250
+49,0,jaguar xf,four,sedan,front,113,199.6,69.6,52.8,4066,six,258,3.63,4.17,8.1,176,4750,15,19,35550
+50,0,jaguar xk,two,sedan,front,102,191.7,70.6,47.8,3950,twelve,326,3.54,2.76,11.5,262,5000,13,17,36000
+51,1,maxda rx3,two,hatchback,front,93.1,159.1,64.2,54.1,1890,four,91,3.03,3.15,9,68,5000,30,31,5195
+52,1,maxda glc deluxe,two,hatchback,front,93.1,159.1,64.2,54.1,1900,four,91,3.03,3.15,9,68,5000,31,38,6095
+53,1,mazda rx2 coupe,two,hatchback,front,93.1,159.1,64.2,54.1,1905,four,91,3.03,3.15,9,68,5000,31,38,6795
+54,1,mazda rx-4,four,sedan,front,93.1,166.8,64.2,54.1,1945,four,91,3.03,3.15,9,68,5000,31,38,6695
+55,1,mazda glc deluxe,four,sedan,front,93.1,166.8,64.2,54.1,1950,four,91,3.08,3.15,9,68,5000,31,38,7395
+56,3,mazda 626,two,hatchback,front,95.3,169,65.7,49.6,2380,two,70,3.33,3.255,9.4,101,6000,17,23,10945
+57,3,mazda glc,two,hatchback,front,95.3,169,65.7,49.6,2380,two,70,3.33,3.255,9.4,101,6000,17,23,11845
+58,3,mazda rx-7 gs,two,hatchback,front,95.3,169,65.7,49.6,2385,two,70,3.33,3.255,9.4,101,6000,17,23,13645
+59,3,mazda glc 4,two,hatchback,front,95.3,169,65.7,49.6,2500,two,80,3.33,3.255,9.4,135,6000,16,23,15645
+61,0,mazda glc custom l,four,sedan,front,98.8,177.8,66.5,55.5,2410,four,122,3.39,3.39,8.6,84,4800,26,32,8495
+62,1,mazda glc custom,two,hatchback,front,98.8,177.8,66.5,53.7,2385,four,122,3.39,3.39,8.6,84,4800,26,32,10595
+68,-1,buick electra 225 custom,four,sedan,front,110,190.9,70.3,56.5,3515,five,183,3.58,3.64,21.5,123,4350,22,25,25552
+69,-1,buick century luxus (sw),four,wagon,front,110,190.9,70.3,58.7,3750,five,183,3.58,3.64,21.5,123,4350,22,25,28248
+70,0,buick century,two,hardtop,front,106.7,187.5,70.3,54.9,3495,five,183,3.58,3.64,21.5,123,4350,22,25,28176
+71,-1,buick skyhawk,four,sedan,front,115.6,202.6,71.7,56.3,3770,five,183,3.58,3.64,21.5,123,4350,22,25,31600
+72,-1,buick opel isuzu deluxe,four,sedan,front,115.6,202.6,71.7,56.5,3740,eight,234,3.46,3.1,8.3,155,4750,16,18,34184
+73,3,buick skylark,two,convertible,front,96.6,180.3,70.5,50.8,3685,eight,234,3.46,3.1,8.3,155,4750,16,18,35056
+74,0,buick century special,four,sedan,front,120.9,208.1,71.7,56.7,3900,eight,308,3.8,3.35,8,184,4500,14,16,40960
+75,1,buick regal sport coupe (turbo),two,hardtop,front,112,199.2,72,55.4,3715,eight,304,3.8,3.35,8,184,4500,14,16,45400
+76,1,mercury cougar,two,hatchback,front,102.7,178.4,68,54.8,2910,four,140,3.78,3.12,8,175,5000,19,24,16503
+77,2,mitsubishi mirage,two,hatchback,front,93.7,157.3,64.4,50.8,1918,four,92,2.97,3.23,9.4,68,5500,37,41,5389
+78,2,mitsubishi lancer,two,hatchback,front,93.7,157.3,64.4,50.8,1944,four,92,2.97,3.23,9.4,68,5500,31,38,6189
+79,2,mitsubishi outlander,two,hatchback,front,93.7,157.3,64.4,50.8,2004,four,92,2.97,3.23,9.4,68,5500,31,38,6669
+80,1,mitsubishi g4,two,hatchback,front,93,157.3,63.8,50.8,2145,four,98,3.03,3.39,7.6,102,5500,24,30,7689
+81,3,mitsubishi mirage g4,two,hatchback,front,96.3,173,65.4,49.4,2370,four,110,3.17,3.46,7.5,116,5500,23,30,9959
+86,1,mitsubishi montero,four,sedan,front,96.3,172.4,65.4,51.6,2365,four,122,3.35,3.46,8.5,88,5000,25,32,6989
+87,1,mitsubishi pajero,four,sedan,front,96.3,172.4,65.4,51.6,2405,four,122,3.35,3.46,8.5,88,5000,25,32,8189
+90,1,Nissan versa,two,sedan,front,94.5,165.3,63.8,54.5,1889,four,97,3.15,3.29,9.4,69,5200,31,37,5499
+91,1,nissan gt-r,two,sedan,front,94.5,165.3,63.8,54.5,2017,four,103,2.99,3.47,21.9,55,4800,45,50,7099
+92,1,nissan rogue,two,sedan,front,94.5,165.3,63.8,54.5,1918,four,97,3.15,3.29,9.4,69,5200,31,37,6649
+93,1,nissan latio,four,sedan,front,94.5,165.3,63.8,54.5,1938,four,97,3.15,3.29,9.4,69,5200,31,37,6849
+94,1,nissan titan,four,wagon,front,94.5,170.2,63.8,53.5,2024,four,97,3.15,3.29,9.4,69,5200,31,37,7349
+95,1,nissan leaf,two,sedan,front,94.5,165.3,63.8,54.5,1951,four,97,3.15,3.29,9.4,69,5200,31,37,7299
+96,1,nissan juke,two,hatchback,front,94.5,165.6,63.8,53.3,2028,four,97,3.15,3.29,9.4,69,5200,31,37,7799
+98,1,nissan note,four,wagon,front,94.5,170.2,63.8,53.5,2037,four,97,3.15,3.29,9.4,69,5200,31,37,7999
+99,2,nissan clipper,two,hardtop,front,95.1,162.4,63.8,53.3,2008,four,97,3.15,3.29,9.4,69,5200,31,37,8249
+101,0,nissan nv200,four,sedan,front,97.2,173.4,65.2,54.7,2302,four,120,3.33,3.47,8.5,97,5200,27,34,9549
+102,0,nissan dayz,four,sedan,front,100.4,181.7,66.5,55.1,3095,six,181,3.43,3.27,9,152,5200,17,22,13499
+103,0,nissan fuga,four,wagon,front,100.4,184.6,66.5,56.1,3296,six,181,3.43,3.27,9,152,5200,17,22,14399
+104,0,nissan otti,four,sedan,front,100.4,184.6,66.5,55.1,3060,six,181,3.43,3.27,9,152,5200,19,25,13499
+105,3,nissan teana,two,hatchback,front,91.3,170.7,67.9,49.7,3071,six,181,3.43,3.27,9,160,5200,19,25,17199
+106,3,nissan kicks,two,hatchback,front,91.3,170.7,67.9,49.7,3139,six,181,3.43,3.27,7.8,200,5200,17,23,19699
+108,0,peugeot 504,four,sedan,front,107.9,186.7,68.4,56.7,3020,four,120,3.46,3.19,8.4,97,5000,19,24,11900
+109,0,peugeot 304,four,sedan,front,107.9,186.7,68.4,56.7,3197,four,152,3.7,3.52,21,95,4150,28,33,13200
+110,0,peugeot 504 (sw),four,wagon,front,114.2,198.9,68.4,58.7,3230,four,120,3.46,3.19,8.4,97,5000,19,24,12440
+113,0,peugeot 604sl,four,sedan,front,107.9,186.7,68.4,56.7,3252,four,152,3.7,3.52,21,95,4150,28,33,16900
+115,0,peugeot 505s turbo diesel,four,wagon,front,114.2,198.9,68.4,58.7,3485,four,152,3.7,3.52,21,95,4150,25,25,17075
+119,1,plymouth fury iii,two,hatchback,front,93.7,157.3,63.8,50.8,1918,four,90,2.97,3.23,9.4,68,5500,37,41,5572
+120,1,plymouth cricket,two,hatchback,front,93.7,157.3,63.8,50.8,2128,four,98,3.03,3.39,7.6,102,5500,24,30,7957
+122,1,plymouth satellite custom (sw),four,sedan,front,93.7,167.3,63.8,50.8,1989,four,90,2.97,3.23,9.4,68,5500,31,38,6692
+123,1,plymouth fury gran sedan,four,sedan,front,93.7,167.3,63.8,50.8,2191,four,98,2.97,3.23,9.4,68,5500,31,38,7609
+124,-1,plymouth valiant,four,wagon,front,103.3,174.6,64.6,59.8,2535,four,122,3.35,3.46,8.5,88,5000,24,30,8921
+125,3,plymouth duster,two,hatchback,front,95.9,173.2,66.3,50.2,2818,four,156,3.59,3.86,7,145,5000,19,24,12764
+126,3,porsche macan,two,hatchback,front,94.5,168.9,68.3,50.2,2778,four,151,3.94,3.11,9.5,143,5500,19,27,22018
+127,3,porcshce panamera,two,hardtop,rear,89.5,168.9,65,51.6,2756,six,194,3.74,2.9,9.5,207,5900,17,25,32528
+128,3,porsche cayenne,two,hardtop,rear,89.5,168.9,65,51.6,2756,six,194,3.74,2.9,9.5,207,5900,17,25,34028
+129,3,porsche boxter,two,convertible,rear,89.5,168.9,65,51.6,2800,six,194,3.74,2.9,9.5,207,5900,17,25,37028
+131,0,renault 12tl,four,wagon,front,96.1,181.5,66.5,55.2,2579,four,132,3.46,3.9,8.7,90,5100,23,31,9295
+132,2,renault 5 gtl,two,hatchback,front,96.1,176.8,66.6,50.5,2460,four,132,3.46,3.9,8.7,90,5100,23,31,9895
+133,3,saab 99e,two,hatchback,front,99.1,186.6,66.5,56.1,2658,four,121,3.54,3.07,9.31,110,5250,21,28,11850
+134,2,saab 99le,four,sedan,front,99.1,186.6,66.5,56.1,2695,four,121,3.54,3.07,9.3,110,5250,21,28,12170
+136,2,saab 99gle,four,sedan,front,99.1,186.6,66.5,56.1,2758,four,121,3.54,3.07,9.3,110,5250,21,28,15510
+139,2,subaru,two,hatchback,front,93.7,156.9,63.4,53.7,2050,four,97,3.62,2.36,9,69,4900,31,36,5118
+140,2,subaru dl,two,hatchback,front,93.7,157.9,63.6,53.7,2120,four,108,3.62,2.64,8.7,73,4400,26,31,7053
+143,0,subaru brz,four,sedan,front,97.2,172,65.4,52.5,2190,four,108,3.62,2.64,9.5,82,4400,28,33,7775
+144,0,subaru baja,four,sedan,front,97.2,172,65.4,52.5,2340,four,108,3.62,2.64,9,94,5200,26,32,9960
+145,0,subaru r1,four,sedan,front,97,172,65.4,54.3,2385,four,108,3.62,2.64,9,82,4800,24,25,9233
+146,0,subaru r2,four,sedan,front,97,172,65.4,54.3,2510,four,108,3.62,2.64,7.7,111,4800,24,29,11259
+147,0,subaru trezia,four,wagon,front,97,173.5,65.4,53,2290,four,108,3.62,2.64,9,82,4800,28,32,7463
+148,0,subaru tribeca,four,wagon,front,97,173.5,65.4,53,2455,four,108,3.62,2.64,9,94,5200,25,31,10198
+151,1,toyota corona mark ii,two,hatchback,front,95.7,158.7,63.6,54.5,1985,four,92,3.05,3.03,9,62,4800,35,39,5348
+152,1,toyota corona,two,hatchback,front,95.7,158.7,63.6,54.5,2040,four,92,3.05,3.03,9,62,4800,31,38,6338
+153,1,toyota corolla 1200,four,hatchback,front,95.7,158.7,63.6,54.5,2015,four,92,3.05,3.03,9,62,4800,31,38,6488
+154,0,toyota corona hardtop,four,wagon,front,95.7,169.7,63.6,59.1,2280,four,92,3.05,3.03,9,62,4800,31,37,6918
+155,0,toyota corolla 1600 (sw),four,wagon,front,95.7,169.7,63.6,59.1,2290,four,92,3.05,3.03,9,62,4800,27,32,7898
+156,0,toyota carina,four,wagon,front,95.7,169.7,63.6,59.1,3110,four,92,3.05,3.03,9,62,4800,27,32,8778
+157,0,toyota mark ii,four,sedan,front,95.7,166.3,64.4,53,2081,four,98,3.19,3.03,9,70,4800,30,37,6938
+160,0,toyota corolla,four,hatchback,front,95.7,166.3,64.4,52.8,2275,four,110,3.27,3.35,22.5,56,4500,38,47,7788
+164,1,toyota corolla liftback,two,sedan,front,94.5,168.7,64,52.6,2169,four,98,3.19,3.03,9,70,4800,29,34,8058
+166,1,toyota celica gt liftback,two,sedan,front,94.5,168.7,64,52.6,2265,four,98,3.24,3.08,9.4,112,6600,26,29,9298
+167,1,toyota corolla tercel,two,hatchback,front,94.5,168.7,64,52.6,2300,four,98,3.24,3.08,9.4,112,6600,26,29,9538
+168,2,toyota corona liftback,two,hardtop,front,98.4,176.2,65.6,52,2540,four,146,3.62,3.5,9.3,116,4800,24,30,8449
+170,2,toyota starlet,two,hatchback,front,98.4,176.2,65.6,52,2551,four,146,3.62,3.5,9.3,116,4800,24,30,9989
+171,2,toyota tercel,two,hardtop,front,98.4,176.2,65.6,52,2679,four,146,3.62,3.5,9.3,116,4800,24,30,11199
+173,2,toyota cressida,two,convertible,front,98.4,176.2,65.6,53,2975,four,146,3.62,3.5,9.3,116,4800,24,30,17669
+175,-1,toyota celica gt,four,sedan,front,102.4,175.6,66.5,54.9,2480,four,110,3.27,3.35,22.5,73,4500,30,33,10698
+182,-1,toyouta tercel,four,wagon,front,104.5,187.8,66.5,54.1,3151,six,161,3.27,3.35,9.2,156,5200,19,24,15750
+183,2,vokswagen rabbit,two,sedan,front,97.3,171.7,65.5,55.7,2261,four,97,3.01,3.4,23,52,4800,37,46,7775
+184,2,volkswagen 1131 deluxe sedan,two,sedan,front,97.3,171.7,65.5,55.7,2209,four,109,3.19,3.4,9,85,5250,27,34,7975
+185,2,volkswagen model 111,four,sedan,front,97.3,171.7,65.5,55.7,2264,four,97,3.01,3.4,23,52,4800,37,46,7995
+186,2,volkswagen type 3,four,sedan,front,97.3,171.7,65.5,55.7,2212,four,109,3.19,3.4,9,85,5250,27,34,8195
+187,2,volkswagen 411 (sw),four,sedan,front,97.3,171.7,65.5,55.7,2275,four,109,3.19,3.4,9,85,5250,27,34,8495
+188,2,volkswagen super beetle,four,sedan,front,97.3,171.7,65.5,55.7,2319,four,97,3.01,3.4,23,68,4500,37,42,9495
+189,2,volkswagen dasher,four,sedan,front,97.3,171.7,65.5,55.7,2300,four,109,3.19,3.4,10,100,5500,26,32,9995
+190,3,vw dasher,two,convertible,front,94.5,159.3,64.2,55.6,2254,four,109,3.19,3.4,8.5,90,5500,24,29,11595
+191,3,vw rabbit,two,hatchback,front,94.5,165.7,64,51.4,2221,four,109,3.19,3.4,8.5,90,5500,24,29,9980
+192,0,volkswagen rabbit,four,sedan,front,100.4,180.2,66.9,55.1,2661,five,136,3.19,3.4,8.5,110,5500,19,24,13295
+193,0,volkswagen rabbit custom,four,sedan,front,100.4,180.2,66.9,55.1,2579,four,97,3.01,3.4,23,68,4500,33,38,13845
+195,-2,volvo 145e (sw),four,sedan,front,104.3,188.8,67.2,56.2,2912,four,141,3.78,3.15,9.5,114,5400,23,28,12940
+196,-1,volvo 144ea,four,wagon,front,104.3,188.8,67.2,57.5,3034,four,141,3.78,3.15,9.5,114,5400,23,28,13415
+197,-2,volvo 244dl,four,sedan,front,104.3,188.8,67.2,56.2,2935,four,141,3.78,3.15,9.5,114,5400,24,28,15985
+198,-1,volvo 245,four,wagon,front,104.3,188.8,67.2,57.5,3042,four,141,3.78,3.15,9.5,114,5400,24,28,16515
+199,-2,volvo 264gl,four,sedan,front,104.3,188.8,67.2,56.2,3045,four,130,3.62,3.15,7.5,162,5100,17,22,18420
+200,-1,volvo diesel,four,wagon,front,104.3,188.8,67.2,57.5,3157,four,130,3.62,3.15,7.5,162,5100,17,22,18950
+204,-1,volvo 246,four,sedan,front,109.1,188.8,68.9,55.5,3217,six,145,3.01,3.4,23,106,4800,26,27,22470
