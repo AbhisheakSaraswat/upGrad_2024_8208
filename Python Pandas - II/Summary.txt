@@ -1,0 +1,4 @@
+Pandas DataFrame Operation
+Pandas Rename, Drop, Set or Reset Index
+Pandas Groupby, value_count, split the data, filter,
+Pandas Describe, Transpose, dtype, info, unique, nunique, data type conversion, date components
