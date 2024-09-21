@@ -1,0 +1,5 @@
+1. Pandas Pivot Table
+2. Pandas Apply Function with Lambda and UDF
+3. Pandas Joins (InnerJoin, LeftJoin, RightJoin, FullJoin, Cross Join)
+4. Data Visualization using Matplotlib : Bar, Barh, Plot, Pie, Scatter
+5. Pandas Playlist : https://www.youtube.com/playlist?list=PLWuFHho1zKhUJpe9WfSyvrrQrzqDErbmv
