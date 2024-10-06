@@ -1,0 +1,21 @@
+EmpID,FirstName,LastName,Education,Occupation,Grade,YearlyIncome,Sales,HireDate,DeptID
+1870.0,Annie,Jenkins,Bachelors,Management,A,35000.0,4650.0,1899-12-30 00:00:00.000,9.0
+9137.0,Sandra,Hicks,Bachelors,Clerical,D,25000.0,4449.0,1899-12-30 00:00:00.000,5.0
+8843.0,Benjamin,Willis,Master Degree,Professional,B,50000.0,4093.0,1899-12-30 00:00:00.000,8.0
+9939.0,Abhisheak,Saraswat,Bachelors,Professional,A,45000.0,3805.0,1899-12-30 00:00:00.000,
+6016.0,Roger,Gomez,Intermediate,Clerical,C,55000.0,3750.0,1899-12-30 00:00:00.000,6.0
+3727.0,Christopher,Oliver,High School,Management,B,50000.0,3307.0,1899-12-30 00:00:00.000,4.0
+9641.0,Kimberly,Coleman,Intermediate,Professional,D,50000.0,3248.0,1899-12-30 00:00:00.000,7.0
+1171.0,Judy,Sanchez,Master Degree,Professional,D,70000.0,3014.0,1899-12-30 00:00:00.000,4.0
+9974.0,Shirley,Chavez,Intermediate,Clerical,C,90000.0,3013.0,1899-12-30 00:00:00.000,4.0
+4386.0,Raymond,Young,Bachelors,Professional,A,90000.0,3000.0,1899-12-30 00:00:00.000,1.0
+7632.0,Ruby,Matthews,Intermediate,Clerical,A,40000.0,3000.0,1899-12-30 00:00:00.000,3.0
+6905.0,Lori,Shaw,Master Degree,Clerical,A,35000.0,3000.0,1899-12-30 00:00:00.000,4.0
+2281.0,Pamela,Alexander,Bachelors,Professional,D,60000.0,2693.0,1899-12-30 00:00:00.000,1.0
+8938.0,Kathryn,Fox,Education,Professional,A,35000.0,2399.0,1899-12-30 00:00:00.000,5.0
+8045.0,Christina,Little,Master Degree,Human Resource,D,60000.0,2239.0,1899-12-30 00:00:00.000,1.0
+8592.0,Gloria,Harper,High School,Clerical,A,40000.0,1383.0,1899-12-30 00:00:00.000,2.0
+5711.0,Brian,Ryan,Bachelors,Clerical,A,40000.0,843.0,1899-12-30 00:00:00.000,6.0
+4481.0,Harold,Hunter,High School,Professional,C,50000.0,523.0,1899-12-30 00:00:00.000,3.0
+4682.0,Helen,Dean,High School,Management,B,75000.0,100.0,1899-12-30 00:00:00.000,2.0
+2220.0,Walter,Kennedy,Education,Human Resource,A,60000.0,4944.0,1899-12-30 00:00:00.000,6.0
