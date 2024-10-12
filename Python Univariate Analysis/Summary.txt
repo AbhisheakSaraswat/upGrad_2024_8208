@@ -1,3 +1,7 @@
 Data Central Tendency
 Data Visualization for Single Feature or Variable
 
+Pandas Sketh Python AI Package:
+
+https://www.youtube.com/watch?v=cJ551vcFGm4&list=PLWuFHho1zKhUJpe9WfSyvrrQrzqDErbmv&index=27&t=1s
+
