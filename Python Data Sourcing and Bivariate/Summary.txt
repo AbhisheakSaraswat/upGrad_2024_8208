@@ -1,0 +1,4 @@
+Python BeautifulSoup
+HTML Tags, Paragraphics, Link, Images etc
+Python Bivariate analysis over Titanic DataSet
+Explain how to create virtual env
