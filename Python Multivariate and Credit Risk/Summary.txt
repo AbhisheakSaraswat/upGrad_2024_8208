@@ -1,0 +1,5 @@
+Multivriate
+Enumerate
+Create a function and howe we can the fuction on different -2 attributes for visualization
+Missing value percentage
+Credit Risk : UniVariate, BiVariate, Multivariate.
