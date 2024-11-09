@@ -1,0 +1,11 @@
+Pivot Table
+Pivot Chart
+Dashboard
+Vlookup
+hlookup
+match
+left
+right
+mid
+find
+
