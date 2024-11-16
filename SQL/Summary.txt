@@ -1,0 +1,5 @@
+DataBase Management System
+FlatFile (old system)
+Feature of DBMS
+FK and PK
+etc
