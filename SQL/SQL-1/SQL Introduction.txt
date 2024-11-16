@@ -1,0 +1,58 @@
+Q1. What is DBMS?
+A. DBMS - DataBase Management System- Bascially DBMS is system or application which facilitates the creation, management and inspection and interaction with data. A user can store the data, organized the data, retrived the data and manipulate the data if needed.
+
+What is the main components of DBMS:
+
+- Data Storage
+- Data Manipulation
+- Data Security
+- Data Integirty
+- Concurrency
+- Backup and Recovery of Data as well
+
+RDBMS : Relational Management Sytem
+Efficient Data Managment
+Data Retrieval
+Data Integirty and Accuracy
+Security
+Data Shareing and collaboration
+Multiple user can work at a time
+Back and recovery
+Aumation using Trigger ans Procedures
+
+
+
+Structure of the a Table
+
+A Table: A database can have multiple table. 
+A Table can consists of Rows (records/Tuples) and columns (Field /Attributes)
+Row (Records) - Eah rows in the database
+Cols (field and attributes)- Each col in the database
+Primary Key, Foreign key etc
+
+
+RDBMS Applications:
+MS SQL
+MySQL
+Oracle
+PostGres
+SQLite
+MSAccess
+etc
+
+-- Talk to all above applicaiton we are required good amount of knowlege of SQL (Structured Query Language)
+
+
+A Primary key: A primary key is a column in a table which is uniquely identifiers.
+Example: Your EmpID, EmailID, MobileNumber, UAN etc can be a primary key
+Note: A table can have only 1 primary key column and A primary key column can not be a null and Primary key
+column can not have duplicate records.
+
+
+Foregin Key: To enforce the integrity or to build the relationshipt between the tables
+A table can have multiple FK, A FK can have duplicate or null value.
+
+
+
+
+
