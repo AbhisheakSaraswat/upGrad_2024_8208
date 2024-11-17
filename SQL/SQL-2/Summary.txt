@@ -1,0 +1,17 @@
+Insert
+Update
+Delete
+Alter 
+Drop
+Truncate
+In
+And
+OR
+Not
+Between
+order by 
+where 
+Primary key
+foreign key
+null, not null
+etc
