@@ -1,0 +1,18 @@
+EmpID,FirstName,LastName,Education,Occupation,Grade,YearlyIncome,Sales,HireDate,DeptID
+1870,Annie,Jenkins,Bachelors,Management,A,35000,4650,"1899-12-30 00:00:00.000",9
+8843,Benjamin,Willis,"Master Degree",Professional,B,50000,4093,"1899-12-30 00:00:00.000",8
+3727,Christopher,Oliver,"High School",Management,B,50000,5555,"1899-12-30 00:00:00.000",4
+9641,Kimberly,Coleman,Intermediate,Professional,D,50000,3248,"1899-12-30 00:00:00.000",7
+1171,Judy,Sanchez,"Master Degree",Professional,D,70000,3014,"1899-12-30 00:00:00.000",4
+9974,Shirley,Chavez,Intermediate,Clerical,C,90000,5000,"1899-12-30 00:00:00.000",4
+4386,Raymond,Young,Bachelors,Professional,A,90000,3000,"1899-12-30 00:00:00.000",1
+7632,Ruby,Matthews,Intermediate,Clerical,A,40000,3000,"1899-12-30 00:00:00.000",3
+6905,Lori,Shaw,"Master Degree",Clerical,A,35000,3000,"1899-12-30 00:00:00.000",4
+2281,Pamela,Alexander,Bachelors,Professional,D,60000,2693,"1899-12-30 00:00:00.000",1
+8938,Kathryn,Fox,Education,Professional,A,35000,2399,"1899-12-30 00:00:00.000",5
+8045,Christina,Little,"Master Degree","Human Resource",D,60000,2239,"1899-12-30 00:00:00.000",1
+8592,Gloria,Harper,"High School",Clerical,A,40000,1383,"1899-12-30 00:00:00.000",2
+5711,Brian,Ryan,Bachelors,Clerical,A,40000,843,"1899-12-30 00:00:00.000",6
+4481,Harold,Hunter,"High School",Professional,C,50000,523,"1899-12-30 00:00:00.000",3
+4682,Helen,Dean,"High School",Management,B,75000,100,"1899-12-30 00:00:00.000",2
+2220,Walter,Kennedy,Education,"Human Resource",A,60000,4944,"1899-12-30 00:00:00.000",6
